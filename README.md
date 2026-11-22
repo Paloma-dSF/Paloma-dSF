@@ -9,7 +9,7 @@
 
 <!-- ===================== BANNER ===================== -->
 <!-- Opção A: banner gerado automaticamente (troque o texto em "text=") -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Olá,%20eu%20sou%20SEU_NOME!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Olá,%20eu%20sou%20a%20Paloma!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <!-- Opção B: sua própria imagem. Crie uma pasta "Images" no repositório e envie o arquivo:
 ![Banner](./Images/banner.png)
